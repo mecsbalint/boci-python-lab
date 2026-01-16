@@ -9,7 +9,6 @@
 - [ ] New feature
 - [ ] Refactor
 - [ ] Documentation
-- [ ] Experiment / spike
 
 ## Testing
 - [ ] Unit tests
